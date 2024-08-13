@@ -11,4 +11,4 @@
 3. Functions/Methods:
 - Function Definition & Invocation: Creating reusable blocks of code, passing parameters, and returning values. [Simple Functions Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/simple-functions.js)
 - Recursion: A function that calls itself, useful in problems like factorial calculation, Fibonacci series, etc. [Recursion Functions Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/recursion-function.js)
-- Higher-Order Functions: Functions that take other functions as arguments or return them as results (common in functional programming languages).
+- Higher-Order Functions: Functions that take other functions as arguments or return them as results (common in functional programming languages). [Higher Order Function Example] (https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/higher-order-function.js)
