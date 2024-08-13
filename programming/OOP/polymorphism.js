@@ -28,3 +28,9 @@ Output:
 International news broadcasting...
 National news broadcasting...
 */
+
+/*
+Explanation:
+- The `broadcastNews` method is polymorphic; it behaves differently depending on whether the object is an instance of `International`, or `National` Class.
+- Polymorphism allows for the same method to be called on different objects, and the correct method is executed based on the object's class.
+*/

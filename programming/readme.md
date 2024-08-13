@@ -9,13 +9,24 @@
 - Loops: for, while, do-while for repeating a block of code multiple times.
 
 3. **Functions/Methods:**
-- Function Definition & Invocation: Creating reusable blocks of code, passing parameters, and returning values. [Simple Functions Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/simple-functions.js)
-- Recursion: A function that calls itself, useful in problems like factorial calculation, Fibonacci series, etc. [Recursion Functions Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/recursion-function.js)
-- Higher-Order Functions: Functions that take other functions as arguments or return them as results (common in functional programming languages) [Higher Order Function Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/higher-order-function.js)
+- Function Definition & Invocation: Creating reusable blocks of code, passing parameters, and returning values. 
+[Simple Functions Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/simple-functions.js)
+- Recursion: A function that calls itself, useful in problems like factorial calculation, Fibonacci series, etc. 
+[Recursion Functions Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/recursion-function.js)
+- Higher-Order Functions: Functions that take other functions as arguments or return them as results (common in functional programming languages) 
+[Higher Order Function Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/functions/higher-order-function.js)
 
 4. **OOP (Object Oriented Progamming):**
-- Class & Objects: Class is a blueprint that hold the configurations. And Object is an instance of a Class. [Class & Object Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/class-and-object.js)
+- Class & Objects: Class is a blueprint that hold the configurations. And Object is an instance of a Class. 
+[Class & Object Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/class-and-object.js)
 
-- Inheritance: Mechanism where one Class (Child) inherits the attributes & methods of another Class (Parent). It can do mainly two things, Override & Reuse methods from Parent class. [Inheritance Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/inheritance.js)
+- Inheritance: Mechanism where one Class (Child) inherits the attributes & methods of another Class (Parent). 
+- It can do mainly two things, Override & Reuse methods from Parent class. 
+[Inheritance Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/inheritance.js)
 
-- Polymorphism: It allows methods to behaves differently based on the object it is acting upon. In other words, same method name can have different functionality based on the object. [Polymorphism Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/polymorphism.js)
+- Polymorphism: It allows methods to behaves differently based on the object it is acting upon. In other words, same method name can have different functionality based on the object. 
+[Polymorphism Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/polymorphism.js)
+
+- Encapsulation: It's a concept of bundling data (variables) and methods that operates on that data into single unit (Class). 
+- It also involves restricting access for the some of the object's components.
+[Encapsulation Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/encapsulation.js)
