@@ -16,4 +16,6 @@
 4. **OOP (Object Oriented Progamming):**
 - Class & Objects: Class is a blueprint that hold the configurations. And Object is an instance of a Class. [Class & Object Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/class-and-object.js)
 
-- Inheritance: Mechanism where once Class inherits the attributes & methods of another Class [Inheritance Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/inheritance.js)
+- Inheritance: Mechanism where one Class (Child) inherits the attributes & methods of another Class (Parent). It can do mainly two things, Override & Reuse methods from Parent class. [Inheritance Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/inheritance.js)
+
+- Polymorphism: It allows methods to behaves differently based on the object it is acting upon. In other words, same method name can have different functionality based on the object. [Polymorphism Example](https://github.com/dwarkesh8/IT-fundamentals-and-revision/blob/main/programming/OOP/polymorphism.js)
